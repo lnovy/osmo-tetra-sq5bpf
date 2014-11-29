@@ -1,4 +1,4 @@
-FROM marcelmaatkamp/gnuradio-libosmocore
+FROM marcelmaatkamp/gnuradio-libosmocore-sq5bpf
 
 MAINTAINER m.maatkamp@gmail.com version: 0.1
 
